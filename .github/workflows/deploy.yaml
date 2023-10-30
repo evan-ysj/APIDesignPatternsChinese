@@ -1,4 +1,5 @@
 name: github pages
+theme: minima
 
 on:
   push:
