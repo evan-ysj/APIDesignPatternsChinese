@@ -1,5 +1,5 @@
 name: github pages
-theme: minima
+theme: rust
 
 on:
   push:
