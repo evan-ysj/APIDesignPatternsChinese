@@ -1,0 +1,12 @@
+[book]
+authors = ["evan-ysj"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "API Design Patterns"
+
+[output.html]
+mathjax-support = true
+no-section-label = true
+git-repository-url = "https://github.com/evan-ysj/APIDesignPatternsChinese"
+git-repository-icon = "fa-github"
