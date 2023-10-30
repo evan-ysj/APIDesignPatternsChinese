@@ -1,9 +1,9 @@
 # 《API Design Patterns》中文翻译
 
-<img src="https://screenshot.googleplex.com/BTRZw72uYd8escK.png" align="right" weight="300" height="400"/>
+<img src="public/cover.png" align="right" weight="300" height="400"/>
 
 ## 资源链接
-> + **[在线浏览(推荐)](public/cover.png)**
+> + **[在线浏览(推荐)](https://evan-ysj.github.io/APIDesignPatternsChinese)**
 > + [PDF格式英文版下载](public/APIDesignPatterns.pdf)
 > + [Google API Design Guide (中文)](https://google-cloud.gitbook.io/api-design-guide/)
 > + [Google AIP (API Improvement Proposals)](https://google.aip.dev/)
