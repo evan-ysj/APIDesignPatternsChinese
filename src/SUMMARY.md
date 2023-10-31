@@ -4,7 +4,7 @@
 [关于本书](./about-this-book.md)
 [关于作者](./about-the-author.md)
 [关于封面图片](./about-the-cover-illustration.md)
-[第一部分 简介]()
+[第一部分 简介](src/1.introduction/foreword.md)
 	1. [什么是API](src/1.introduction/1.introduction-to-apis.md)
 	2. [什么是API设计模式](src/1.introduction/2.introduction-to-api-design-patterns.md)
 [第二部分 设计原则](src/2.design-principles/foreword.md)
